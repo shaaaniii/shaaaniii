@@ -25,8 +25,7 @@
 
 ## 🌱 I’m currently learning:
 - Advanced JavaScript patterns
-- Building scalable REST APIs
-- Front-end frameworks (React.js)
+- OOP pattern
 
 ## 🚀 Let's Collaborate!
 - 💬 Open to contributions, discussions, and hackathons. Feel free to reach out for potential projects!
