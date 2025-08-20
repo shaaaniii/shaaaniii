@@ -1,37 +1,58 @@
-# Hi there, I'm Shani! 👋
+Hi there, I'm Shani! 👋
 
-| 🌱 Currently learning OOP & JavaScript  
-⚡ Coffee-powered coder | 🐶 Dog lover | 🚀 Open to hackathons
+| 🤖 AI/ML Enthusiast | ⚡ Coffee-powered coder | 🐶 Dog lover | 🚀 Hackathon Explorer
 
-- 👩‍💻 I’m passionate about building scalable apps and solving real-world problems with code.  
-- 🌐 Currently working on projects involving JavaScript, OOP concepts, and web development.  
-- 💡 Always looking to collaborate on exciting tech projects and hackathons!  
-- ✨ Fun fact: "Code. Learn. Repeat." is my motto, and coffee is my fuel!
+👩‍💻 Passionate about AI/ML, problem-solving, and building intelligent systems.
 
-## ⚡ Technologies & Tools I Use:
+📊 Exploring Machine Learning, Data Structures & Algorithms, Python, and SQL to strengthen my core skills.
+
+🌐 Working on projects that combine data, algorithms, and AI models to solve real-world challenges.
+
+💡 Open to collaborating on AI/ML-based projects, open source, and hackathons.
+
+✨ Motto: Code. Learn. Repeat. ☕
+
+⚡ Technologies & Tools I Use:
+## ⚡ Technologies & Tools I Use  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+
+### 🧠 ML Frameworks & Libraries  
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+
+🔭 What I’m currently working on:
+
+Building ML projects with Python & SQL
+
+Practicing DSA for strong problem-solving skills
+
+Exploring AI/ML frameworks & cloud tools
+
+Contributing to open-source and hackathons
+
+🌱 I’m currently learning:
+
+Machine Learning & AI Concepts
+
+Python for AI/ML
+
+SQL for Data Handling
+
+Data Structures & Algorithms
+
+✨ Always excited to learn, collaborate, and build something amazing together! 🚀  
+📫 ✨ Always excited to learn, collaborate, and build something amazing together! 🚀  
+📫 Connect with me here: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) www.linkedin.com/in/shani-bhardwaj-0aa8612a6
 
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 
-## 🔭 What I’m currently working on:
-- JavaScript projects exploring OOP concepts and design patterns
-- Open-source contributions
-- Collaborating in hackathons
-
-## 🌱 I’m currently learning:
-- Advanced JavaScript patterns
-- OOP pattern
-
-## 🚀 Let's Collaborate!
-- 💬 Open to contributions, discussions, and hackathons. Feel free to reach out for potential projects!
-
-## 📫 How to reach me:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/shaaaniii)
-
-
-*"Don't stop until you're proud."*
