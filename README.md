@@ -1,58 +1,139 @@
-Hi there, I'm Shani! 👋
+# Hi there, I'm Shani! 👋
 
-| 🤖 AI/ML Enthusiast | ⚡ Coffee-powered coder | 🐶 Dog lover | 🚀 Hackathon Explorer
+🤖 **AI/ML Engineer in the making** | ☕ Coffee-powered coder | 🐶 Dog lover | 🚀 Hackathon Explorer
 
-👩‍💻 Passionate about AI/ML, problem-solving, and building intelligent systems.
+I'm a Computer Science student passionate about **AI/ML, intelligent systems, and building practical solutions to real-world problems.**
 
-📊 Exploring Machine Learning, Data Structures & Algorithms, Python, and SQL to strengthen my core skills.
+Currently focused on turning AI concepts into working systems — from **LLM applications and APIs to RAG, multi-provider routing, and AI engineering workflows.**
 
-🌐 Working on projects that combine data, algorithms, and AI models to solve real-world challenges.
+---
 
-💡 Open to collaborating on AI/ML-based projects, open source, and hackathons.
+## 🚀 What I'm Currently Building
 
-✨ Motto: Code. Learn. Repeat. ☕
+🔹 **LLM Fallback Router**
+Building a multi-provider LLM system with provider abstraction, API integration, and reliability-focused routing.
 
-⚡ Technologies & Tools I Use:
-## ⚡ Technologies & Tools I Use  
+🔹 **AI/ML Projects**
+Working on projects that combine machine learning, data, APIs, and intelligent decision-making rather than just simple chatbot applications.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white)  
+🔹 **AI Engineering Skills**
+Learning how production-oriented AI systems are designed, structured, tested, and deployed.
 
-### 🧠 ML Frameworks & Libraries  
+---
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
+## 🧠 Current Skill Set
 
-🔭 What I’m currently working on:
+### Programming
 
-Building ML projects with Python & SQL
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square\&logo=postgresql\&logoColor=white)
 
-Practicing DSA for strong problem-solving skills
+### 🤖 AI / Machine Learning
 
-Exploring AI/ML frameworks & cloud tools
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square\&logo=scikit-learn\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white)
 
-Contributing to open-source and hackathons
+### 🧩 Generative AI & LLM Engineering
 
-🌱 I’m currently learning:
+* LLM APIs & SDKs
+* Prompt & message-based interactions
+* Tokens & context windows
+* Multi-provider LLM applications
+* Provider abstraction
+* LLM routing & fallback systems
+* RAG
+* Embeddings & vector search
+* AI agents
+* Generative AI application development
 
-Machine Learning & AI Concepts
+### 🌐 Backend & APIs
 
-Python for AI/ML
+* REST APIs
+* JSON
+* API authentication
+* FastAPI
+* HTTP error handling
+* Timeouts & retries
+* Environment-based configuration
+* Python virtual environments
 
-SQL for Data Handling
+### 🛠️ Tools & Cloud
 
-Data Structures & Algorithms
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square\&logo=amazonaws\&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square\&logo=googlecloud\&logoColor=white)
 
-✨ Always excited to learn, collaborate, and build something amazing together! 🚀  
-📫 ✨ Always excited to learn, collaborate, and build something amazing together! 🚀  
-📫 Connect with me here: ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) www.linkedin.com/in/shani-bhardwaj-0aa8612a6
+---
 
+## 📚 Currently Learning
 
+* Advanced LLM application development
+* RAG systems
+* AI agents & tool calling
+* FastAPI and backend engineering
+* LLM routing and reliability
+* Machine Learning fundamentals
+* Deep Learning
+* Data Structures & Algorithms
+* SQL & data handling
+* Cloud technologies
 
+---
+
+## 🔨 Project Approach
+
+I prefer **learning by building**.
+
+Instead of studying every concept first, I build projects in small phases, learn the concepts required for each phase, and gradually turn simple prototypes into more complete AI systems.
+
+### Current Project Roadmap
+
+**Phase 1** → Basic LLM Application ✅
+**Phase 2** → Multi-Provider Support ✅
+**Phase 3** → Automatic Fallback 🔜
+**Phase 4** → Reliability & Retries
+**Phase 5** → FastAPI AI Gateway
+**Phase 6** → Monitoring & Evaluation
+
+---
+
+## 🎯 Areas I'm Interested In
+
+🤖 AI Engineering
+🧠 Machine Learning & Deep Learning
+⚡ LLM Systems
+🔎 Retrieval & RAG
+🔀 AI Routing & Orchestration
+🛠️ Production AI Systems
+☁️ Cloud & AI Infrastructure
+💻 Problem Solving & DSA
+
+---
+
+## 🌱 A Little More About Me
+
+💡 I enjoy taking an idea and turning it into something that actually works.
+
+🧩 I like solving problems where **AI + software engineering** come together.
+
+🚀 Always experimenting with new AI tools, frameworks, and ideas.
+
+☕ Motto: **Code. Learn. Build. Repeat.**
+
+---
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on **AI/ML projects, open-source work, research-oriented projects, and hackathons.**
+
+📫 **LinkedIn:** [Shani Bharadwaj](https://www.linkedin.com/in/shani-bhardwaj-0aa8612a6/)
+
+---
+
+⭐ If you find something interesting in my projects, feel free to explore the repositories!
